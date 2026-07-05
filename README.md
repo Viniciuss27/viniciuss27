@@ -11,9 +11,10 @@
 - Git e GitHub
 
 ## 📌 Projetos em destaque
-- API Stock (Spring Boot)
-- Sistema de Xadrez (Java)
-- Help Desk (PHP)
+- MS_HR (Java)
+- MS_Biblioteca (Java)
+- SpringAi (Java)
+- MS_Escola (Java)
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/viniciuss27
