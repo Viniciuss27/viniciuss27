@@ -17,11 +17,12 @@
 
 ### 🚀 Sobre mim
 
-- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Multivix Serra
-- 💻 Desenvolvedor Backend Júnior, com foco em **Java, Spring Boot, Microsserviços, Docker e APIs REST**
-- 🏗️ Gosto de construir sistemas distribuídos com service discovery, mensageria assíncrona e boas práticas de arquitetura
-- 🔭 Atualmente aprofundando conhecimentos em arquitetura de microsserviços e mensageria com Apache Kafka
-- 📫 Contato: **viniciusdejjeus@gmail.com**
+* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Multivix Serra
+* 💻 Desenvolvedor Backend Júnior com foco em **Java, Spring Boot, Microsserviços, Docker e APIs REST**
+* 🏗️ Experiência prática no desenvolvimento de sistemas distribuídos com **Service Discovery, API Gateway, autenticação JWT e mensageria assíncrona**
+* 🔭 Aprofundando conhecimentos em **arquitetura de microsserviços e Apache Kafka**
+* 🧪 Prática com **testes unitários utilizando JUnit 5 e Mockito**
+* 📫 Contato: **[viniciusdejjeus@gmail.com](mailto:viniciusdejjeus@gmail.com)**
 
 ---
 
@@ -31,35 +32,72 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
 ---
 
+### 🏗️ Arquitetura & Práticas
+
+* Arquitetura baseada em **microsserviços**
+* **Service Discovery** com Netflix Eureka
+* **API Gateway** com Spring Cloud Gateway
+* Configuração centralizada com **Spring Cloud Config**
+* Comunicação síncrona entre serviços com **OpenFeign**
+* Comunicação assíncrona orientada a eventos com **Apache Kafka**
+* Autenticação e autorização com **Spring Security + JWT**
+* Persistência com **Spring Data JPA + PostgreSQL**
+* Versionamento de banco de dados com **Flyway**
+* Containerização e orquestração local com **Docker Compose**
+* DTOs, Mapper/MapStruct e separação por camadas
+* Tratamento global de exceções
+* Testes unitários com **JUnit 5 + Mockito**
+
+---
+
 ### 📌 Projetos em destaque
 
-#### 🛒 [E-Commerce — Microsserviços](https://github.com/viniciuss27/E-Commerce)
-Plataforma de e-commerce construída em arquitetura de microsserviços com Spring Boot.
-- Serviços independentes: `auth`, `categoria`, `cliente`, `notificacao`, `pedido`, `produto`
-- Service discovery com **Eureka**, configuração centralizada com **Spring Cloud Config Server**, roteamento via **API Gateway**
-- Comunicação orientada a eventos com **Apache Kafka** (pedido, produto, notificação)
-- Um banco **PostgreSQL** por serviço, com versionamento via **Flyway**
-- Autenticação e autorização com **JWT** no Gateway e no serviço de Pedido
-- Ambiente 100% containerizado e validado com **Docker Compose**
-- Cobertura de testes unitários em praticamente todos os serviços
+#### 🛒 [MS_E-Commerce](https://github.com/viniciuss27/MS_E-Commerce)
 
-#### 🏦 [MS_Banco — Sistema Bancário com Microsserviços](https://github.com/viniciuss27/Banco)
-Evolução de um monólito bancário para uma arquitetura de 6 microsserviços com comunicação assíncrona.
-- Mensageria assíncrona via **Apache Kafka**, com publicação de eventos após o commit da transação
-- Regras transacionais dedicadas para operações financeiras
-- Testes unitários com **JUnit 5** e **Mockito** cobrindo regras de negócio críticas
-- Stack containerizada com **Docker Compose**: PostgreSQL, Kafka, Eureka e serviços independentes
+Plataforma de e-commerce desenvolvida em arquitetura de microsserviços utilizando Spring Boot e Spring Cloud.
+
+* Serviços independentes para **Auth, Categoria, Cliente, Notificação, Pedido e Produto**
+* **Service Discovery** com Eureka
+* Configuração centralizada com **Spring Cloud Config Server**
+* Roteamento e entrada da aplicação através de **API Gateway**
+* Balanceamento de carga com **Spring Cloud LoadBalancer**
+* Comunicação orientada a eventos com **Apache Kafka**
+* Banco de dados **PostgreSQL independente por serviço**
+* Versionamento de banco com **Flyway**
+* Autenticação e autorização utilizando **Spring Security + JWT**
+* Comunicação entre serviços utilizando **OpenFeign**
+* Testes unitários com **JUnit 5 e Mockito** nos serviços de negócio
+* Documentação de APIs com **Swagger/OpenAPI**
+* Ambiente containerizado e integrado com **Docker Compose**
+* Projeto concluído e validado em ambiente Docker
+
+#### 🏦 [MS_Banco](https://github.com/viniciuss27/MS_Banco)
+
+Sistema bancário desenvolvido como evolução de uma aplicação monolítica para uma arquitetura baseada em microsserviços.
+
+* Arquitetura distribuída com múltiplos microsserviços
+* Comunicação assíncrona utilizando **Apache Kafka**
+* Publicação de eventos após confirmação das transações
+* Regras de negócio transacionais para operações financeiras
+* **PostgreSQL** e **Spring Data JPA**
+* Service Discovery com **Eureka**
+* Testes unitários com **JUnit 5 e Mockito**
+* Ambiente containerizado com **Docker Compose**
 
 ---
 
@@ -76,4 +114,6 @@ Evolução de um monólito bancário para uma arquitetura de 6 microsserviços c
 
 ---
 
-<p align="center"><i>Aberto a oportunidades como Desenvolvedor Backend Júnior 🚀</i></p>
+<p align="center">
+  <i>Aberto a oportunidades como Desenvolvedor Backend Júnior</i>
+</p>
