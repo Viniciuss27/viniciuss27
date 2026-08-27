@@ -77,6 +77,3 @@ Evolução de um monólito bancário para uma arquitetura de 6 microsserviços c
 ---
 
 <p align="center"><i>Aberto a oportunidades como Desenvolvedor Backend Júnior 🚀</i></p>
-
-## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/viniciuss27
