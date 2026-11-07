@@ -1,119 +1,135 @@
-<h1 align="center">Olá, eu sou o Vinicius De Jesus 👋</h1>
-<h3 align="center">Desenvolvedor Backend Júnior | Java • Spring Boot • Microsserviços</h3>
+
+<h1 align="center">Olá, eu sou Vinicius De Jesus 👋</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=650&lines=Desenvolvedor+Backend+Java+J%C3%BAnior;Java+21+%7C+Spring+Boot+3;Microsservi%C3%A7os+%7C+APIs+REST+%7C+Kafka" alt="Animação de apresentação" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/viniciuss27/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:viniciusdejjeus@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/viniciuss27" target="_blank">
+  <a href="https://github.com/Viniciuss27">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 🚀 Sobre mim
+## Sobre mim
 
-* 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Multivix Serra
-* 💻 Desenvolvedor Backend Júnior com foco em **Java, Spring Boot, Microsserviços, Docker e APIs REST**
-* 🏗️ Experiência prática no desenvolvimento de sistemas distribuídos com **Service Discovery, API Gateway, autenticação JWT e mensageria assíncrona**
-* 🔭 Aprofundando conhecimentos em **arquitetura de microsserviços e Apache Kafka**
-* 🧪 Prática com **testes unitários utilizando JUnit 5 e Mockito**
-* 📫 Contato: **[viniciusdejjeus@gmail.com](mailto:viniciusdejjeus@gmail.com)**
+Sou desenvolvedor Backend Java Júnior, com foco no desenvolvimento de APIs REST e sistemas distribuídos utilizando o ecossistema Spring.
+
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas — Centro Universitário Multivix Serra
+- ☕ Java 21 e Spring Boot 3
+- 🏗️ Desenvolvimento de aplicações com arquitetura de microsserviços
+- 🔐 Autenticação e autorização com Spring Security e JWT
+- 📨 Comunicação assíncrona com Apache Kafka
+- 🐳 Containerização de aplicações com Docker
+- 🧪 Testes unitários com JUnit 5 e Mockito
+
+Tenho direcionado meus estudos para arquitetura de software, boas práticas de desenvolvimento e construção de aplicações distribuídas.
 
 ---
 
-### 🛠️ Stack & Ferramentas
+## Tecnologias
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=flat&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=flyway&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit%205-25A162?style=flat&logo=junit5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+</p>
+
+**Banco de dados e infraestrutura**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</p>
+
+**Testes e ferramentas**
+<p>
+  <img src="https://img.shields.io/badge/JUnit_5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-78A641?style=for-the-badge&logo=mockito&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ---
 
-### 🏗️ Arquitetura & Práticas
+## Projetos em destaque
 
-* Arquitetura baseada em **microsserviços**
-* **Service Discovery** com Netflix Eureka
-* **API Gateway** com Spring Cloud Gateway
-* Configuração centralizada com **Spring Cloud Config**
-* Comunicação síncrona entre serviços com **OpenFeign**
-* Comunicação assíncrona orientada a eventos com **Apache Kafka**
-* Autenticação e autorização com **Spring Security + JWT**
-* Persistência com **Spring Data JPA + PostgreSQL**
-* Versionamento de banco de dados com **Flyway**
-* Containerização e orquestração local com **Docker Compose**
-* DTOs, Mapper/MapStruct e separação por camadas
-* Tratamento global de exceções
-* Testes unitários com **JUnit 5 + Mockito**
+### 🏢 MS_HR — Sistema de Gestão de Recursos Humanos
+
+[![MS_HR](https://img.shields.io/badge/Ver_projeto-GitHub-181717?style=flat&logo=github)](https://github.com/Viniciuss27/MS_HR)
+
+Sistema distribuído para gestão de funcionários e processamento de folha de pagamento, desenvolvido com Java 21, Spring Boot e Spring Cloud.
+
+- Arquitetura de microsserviços com Auth, Employee, Payroll, Gateway, Eureka e Config Server.
+- Autenticação e autorização utilizando Spring Security e JWT.
+- Comunicação assíncrona com Apache Kafka.
+- Implementação do padrão Transactional Outbox para publicação de eventos.
+- Persistência com PostgreSQL, Spring Data JPA e Flyway.
+- Testes com JUnit 5 e Mockito.
+
+### 🏦 MS_Banco — Sistema Bancário
+
+[![MS_Banco](https://img.shields.io/badge/Ver_projeto-GitHub-181717?style=flat&logo=github)](https://github.com/Viniciuss27/MS_Banco)
+
+Sistema bancário desenvolvido a partir da evolução de uma aplicação monolítica para microsserviços.
+
+- Operações de contas, depósitos, saques e transferências.
+- Arquitetura distribuída com Spring Cloud e Eureka.
+- Comunicação assíncrona com Apache Kafka para notificações.
+- Publicação de eventos após o commit das transações.
+- PostgreSQL, Spring Data JPA e Flyway.
+- Testes unitários com JUnit 5 e Mockito.
+
+### 🛒 MS_E-Commerce — Plataforma de E-Commerce
+
+[![MS_E-Commerce](https://img.shields.io/badge/Ver_projeto-GitHub-181717?style=flat&logo=github)](https://github.com/Viniciuss27/MS_E-Commerce)
+
+Plataforma de e-commerce desenvolvida com arquitetura de microsserviços e comunicação orientada a eventos.
+
+- Serviços independentes para autenticação, clientes, produtos, categorias, pedidos e notificações.
+- API Gateway, Service Discovery com Eureka e configuração centralizada.
+- Processamento de eventos de pedidos utilizando Apache Kafka.
+- Fluxo de reserva de estoque e notificação.
+- PostgreSQL independente por serviço.
+- Segurança com Spring Security e JWT.
+- Docker Compose e documentação com Swagger/OpenAPI.
+
+### 📚 MS_Biblioteca — Sistema de Gestão de Biblioteca
+
+[![MS_Biblioteca](https://img.shields.io/badge/Ver_projeto-GitHub-181717?style=flat&logo=github)](https://github.com/Viniciuss27/MS_Biblioteca)
+
+Sistema de gerenciamento de biblioteca desenvolvido utilizando arquitetura de microsserviços.
+
+- Serviços para usuários, autores, livros e empréstimos.
+- Autenticação e autorização com Spring Security e JWT.
+- API Gateway, Eureka e Spring Cloud Config.
+- Comunicação entre serviços com OpenFeign.
+- Resiliência com Resilience4j.
+- Persistência com Spring Data JPA e PostgreSQL.
 
 ---
 
-### 📌 Projetos em destaque
-
-#### 🛒 [MS_E-Commerce](https://github.com/viniciuss27/MS_E-Commerce)
-
-Plataforma de e-commerce desenvolvida em arquitetura de microsserviços utilizando Spring Boot e Spring Cloud.
-
-* Serviços independentes para **Auth, Categoria, Cliente, Notificação, Pedido e Produto**
-* **Service Discovery** com Eureka
-* Configuração centralizada com **Spring Cloud Config Server**
-* Roteamento e entrada da aplicação através de **API Gateway**
-* Balanceamento de carga com **Spring Cloud LoadBalancer**
-* Comunicação orientada a eventos com **Apache Kafka**
-* Banco de dados **PostgreSQL independente por serviço**
-* Versionamento de banco com **Flyway**
-* Autenticação e autorização utilizando **Spring Security + JWT**
-* Comunicação entre serviços utilizando **OpenFeign**
-* Testes unitários com **JUnit 5 e Mockito** nos serviços de negócio
-* Documentação de APIs com **Swagger/OpenAPI**
-* Ambiente containerizado e integrado com **Docker Compose**
-* Projeto concluído e validado em ambiente Docker
-
-#### 🏦 [MS_Banco](https://github.com/viniciuss27/MS_Banco)
-
-Sistema bancário desenvolvido como evolução de uma aplicação monolítica para uma arquitetura baseada em microsserviços.
-
-* Arquitetura distribuída com múltiplos microsserviços
-* Comunicação assíncrona utilizando **Apache Kafka**
-* Publicação de eventos após confirmação das transações
-* Regras de negócio transacionais para operações financeiras
-* **PostgreSQL** e **Spring Data JPA**
-* Service Discovery com **Eureka**
-* Testes unitários com **JUnit 5 e Mockito**
-* Ambiente containerizado com **Docker Compose**
-
----
-
-### 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=viniciuss27&show_icons=true&theme=default&hide_border=true" alt="Estatísticas do GitHub" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciuss27&hide_border=true" alt="Streak" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Viniciuss27&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Viniciuss27&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciuss27&layout=compact&hide_border=true" alt="Linguagens mais usadas"/>
-</p>
-
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades como Desenvolvedor Backend Júnior</i>
+  <i>Em constante evolução, construindo soluções e aprofundando conhecimentos em desenvolvimento Backend Java.</i>
 </p>
